@@ -1,3 +1,7 @@
+---
+layout: default
+title: Front page
+---
 <ul>
   {% for post in site.posts %}
     <li>
